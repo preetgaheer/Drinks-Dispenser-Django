@@ -1,0 +1,8 @@
+{
+    "flavour_id":4,
+    "flavour_name":"Lemon",
+    "image_path": "flavours/images/lemon.jpg",
+    "price_per_ml":0.71,
+    "max_ml_per_litre":80
+    
+  }

@@ -1,0 +1,7 @@
+{
+    "drink_id": 6,
+    "drink_name":"Hero Water",
+    "image_path":"drinks/images/sparkggling_water.png",
+    "description":"This is very tasty",
+    "flavours" :[  ]
+  }

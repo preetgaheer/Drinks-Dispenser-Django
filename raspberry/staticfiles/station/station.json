@@ -1,0 +1,51 @@
+[
+    {
+        "station_id": 1,
+        "flavour_id": 1,
+        "remaining_ml": 260.2
+    },
+    {
+        "station_id": 2,
+        "flavour_id": 2,
+        "remaining_ml": 132.6
+    },
+    {
+        "station_id": 3,
+        "flavour_id": 4,
+        "remaining_ml": 197.8
+    },
+    {
+        "station_id": 8,
+        "flavour_id": 5,
+        "remaining_ml": 10.0
+    },
+    {
+        "station_id": 9,
+        "flavour_id": 3,
+        "remaining_ml": 175.0
+    },
+    {
+        "station_id": 11,
+        "flavour_id": 6,
+        "remaining_ml": 200.0
+    },
+    {
+        "station_id": 12,
+        "flavour_id": 7,
+        "remaining_ml": 70.0
+    },
+    {
+        "station_id": 13,
+        "flavour_id": 8,
+        "remaining_ml": 819.0
+    },
+    {
+        "station_id": 14,
+        "flavour_id": 9,
+        "remaining_ml": 168.0
+    },
+    {
+        "station_id": 10,
+        "remaining_co2": 162.2
+    }
+]

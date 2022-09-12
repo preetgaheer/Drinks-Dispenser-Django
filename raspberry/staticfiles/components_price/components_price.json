@@ -1,0 +1,7 @@
+{
+    "co2_per_gram_price":0.20,
+    "water_per_litre_price":10,
+    "co2_per_litre": 20,
+    "minimum_co2_per_litre": 5,
+    "threshold_values" : {"flavours": 200, "co2": 200}
+}

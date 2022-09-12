@@ -1,0 +1,7 @@
+{
+    "drink_id":3,
+    "drink_name":"Flat Water",
+    "image_path":"drinks/images/flat_water.png",
+    "description":"This is very tasty",
+    "flavours": []
+  }

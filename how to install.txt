@@ -1,0 +1,22 @@
+Install using shell script:
+1. Execute the final_script.sh file.
+ 
+Manual installation:
+1. Install Python 3.10.3 or higher
+2. Install redis-cli according to your operating system.
+3. Install mysql on your operating system.
+4. Extract the folder raspberry_project.
+5. Open your terminal and cd into extarcted raspberry_project folder.
+6. write: pip install virtualenv
+7. make a new virtual env by following command:
+    python3 -m venv env
+8. activate the virtual environment by following command:
+    source env/bin/activate (Unix/macOS)
+    .\env\Scripts\activate (Windows)
+7. write the following command to install libraires and packages in virtual environment in order to run django application: 
+    pip install -r requirements.txt
+
+Note: if you have multiple python version installed then make sure to use every python command and pip command 
+with version specified. For e.g. pip3.10 install -r requirements.txt, python3.10 manage.py runserver
+
+Your raspberry_project setup is completed.

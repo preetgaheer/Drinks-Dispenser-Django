@@ -1,0 +1,7 @@
+{
+    "flavour_id":6,
+    "flavour_name":"Green Apple",
+    "image_path": "flavours/images/green_apple.jpg",
+    "price_per_ml":0.77,
+    "max_ml_per_litre":60
+  }

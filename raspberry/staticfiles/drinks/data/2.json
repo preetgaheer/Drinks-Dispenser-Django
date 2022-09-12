@@ -1,0 +1,15 @@
+{
+    "drink_id":2,
+    "drink_name":"Lemon Mint",
+    "image_path":"/drinks/images/lemon_mint.png",
+    "description":"This is acidic drink",
+    "flavours" :[
+      {
+      "flavour_id":1,
+      "flavour_quantity_ml":4
+    },
+    {
+      "flavour_id":4,
+      "flavour_quantity_ml":3
+    }]
+  }

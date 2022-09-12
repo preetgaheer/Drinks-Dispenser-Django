@@ -1,0 +1,7 @@
+{
+    "flavour_id":8,
+    "flavour_name":"Orange",
+    "image_path": "flavours/images/orange.jpg",
+    "price_per_ml":0.57,
+    "max_ml_per_litre":81
+  }

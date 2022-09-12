@@ -1,0 +1,7 @@
+{
+    "flavour_id":1,
+    "flavour_name":"Mint",
+    "image_path":"flavours/images/mint.jpg",
+    "price_per_ml":0.7,
+    "max_ml_per_litre":40
+}

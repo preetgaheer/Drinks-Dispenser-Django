@@ -1,0 +1,16 @@
+{
+    "drink_id":1,
+    "drink_name":"Strawberry Ginger",
+    "image_path":"drinks/images/strawberry_ginger.png",
+    "description":"This is very tasty",
+    "flavours" :[
+    {
+      "flavour_id":2,
+      "flavour_quantity_ml":3
+    },
+    {
+      "flavour_id":3,
+      "flavour_quantity_ml":7
+    }
+  ]
+  }
